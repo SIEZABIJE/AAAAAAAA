@@ -1,0 +1,100 @@
+<resources>
+
+    <string name="app_name">Project</string>
+    <string name="defPrice">0</string>
+    <string name="arrow_back">arrowBack\n</string>
+
+
+    <string name="orderListPl">Lista Zamówień</string>
+    <string name="saveCartPl">Zapisz Koszyk</string>
+    <string name="aboutPl">O Autorze</string>
+    <string name="shareCartPl">Udostępnij Koszyk</string>
+    <string name="sendSmsPl">Wyślij Sms\'a</string>
+    <string name="navigationDrawerOpenPl">Otwórz Menu</string>
+    <string name="navigationDrawerClosePl">Zamknij Menu</string>
+    <string name="orderButPl">Zamów!</string>
+    <string name="extraPl">Akcesoria</string>
+    <string name="mouseCheckPl">Myszki</string>
+    <string name="keyboardCheckPl">Klawiatury</string>
+    <string name="cameraCheckPl">Kamery Internetowe</string>
+    <string name="priceLabelPl">Cena:</string>
+    <string name="saveStatePl">Zapisz Aktualny Koszyk</string>
+    <string name="loadStatePl">Wczytaj Zapisany Koszyk</string>
+    <string name="changeLanPl">Zmień Język</string>
+    <string name="menuHeaderPl">Aplikacja Sklepu Komputerowego</string>
+    <string name="menuSubtextPl">Aplikacja sklepu internetowego z opcją dodawania Akcesorii do komputera</string>
+    <string name="loggedAsPl">Zalogowano jako: \n</string>
+    <string name="loggedOutPl">Nie zalogowano \nZaloguj się poniżej</string>
+    <string name="logoutButtonPl">Wyloguj</string>
+    <string name="loginButtonPl">Zaloguj</string>
+    <string name="logInLabelPl">Zaloguj</string>
+    <string name="registerLabelPl">Zarejestruj</string>
+    <string name="loginLoginPl">Login:</string>
+    <string name="loginHintLoginPl">Wpisz tutaj swój login</string>
+    <string name="passwordLoginPl">Hasło:</string>
+    <string name="passHintLoginPl">Wpisz tutaj swoje hasło</string>
+    <string name="rePasswordLoginPl">Powt.Hasło:</string>
+    <string name="rePassHintLoginPl">Powtórz hasło tutaj</string>
+    <string name="toRegisterButPl">Rejstracja</string>
+    <string name="toLogInButPl">Logowanie</string>
+    <string name="logInButPl">Zaloguj</string>
+    <string name="registerButPl">Zarejestruj</string>
+
+    <string name="errorTitlePl">Błąd</string>
+    <string name="errorMessagePl">Podane dane są nieprawidłowe</string>
+    <string name="okPl">OK</string>
+    <string name="createAccPl">Utwórz Konto</string>
+    <string name="clearSavedStatePl">Wyczyść Zapis Koszyka</string>
+
+
+    <string name="orderListEn">Order List</string>
+    <string name="saveCartEn">Save Cart</string>
+    <string name="aboutEn">About</string>
+    <string name="shareCartEn">Share Cart</string>
+    <string name="sendSmsEn">Send Sms</string>
+    <string name="navigationDrawerOpenEn">Open Menu</string>
+    <string name="navigationDrawerCloseEn">Close Menu</string>
+    <string name="orderButEn">Order!</string>
+    <string name="extraEn">Accessories</string>
+    <string name="mouseCheckEn">Mice</string>
+    <string name="keyboardCheckEn">Keyboards</string>
+    <string name="cameraCheckEn">Webcams</string>
+    <string name="priceLabelEn">Price:</string>
+    <string name="saveStateEn">Save Current Cart</string>
+    <string name="loadStateEn">Load Saved Cart</string>
+    <string name="changeLanEn">Change Language</string>
+    <string name="menuHeaderEn">Online pc shop app</string>
+    <string name="menuSubtextEn">Online pc shop app with an option to add Accessories</string>
+    <string name="loggedAsEn">Logged in as: \n</string>
+    <string name="loggedOutEn">Not logged in \nLog in below</string>
+    <string name="logoutButtonEn">Log Out</string>
+    <string name="loginButtonEn">Log in</string>
+    <string name="logInLabelEn">Log In</string>
+    <string name="registerLabelEn">Register</string>
+    <string name="loginLoginEn">Login:</string>
+    <string name="loginHintLoginEn">Enter Your login Here</string>
+    <string name="passwordLoginEn">Password:</string>
+    <string name="passHintLoginEn">Enter your password Here</string>
+    <string name="rePasswordLoginEn">Re.Password:</string>
+    <string name="rePassHintLoginEn">Re-enter your password Here</string>
+    <string name="toRegisterButEn">To Register</string>
+    <string name="toLogInButEn">To Log In</string>
+    <string name="logInButEn">Log In</string>
+    <string name="registerButEn">Register</string>
+
+    <string name="errorTitleEn">Error</string>
+    <string name="errorMessageEn">Provided data is incorrect</string>
+    <string name="okEn">OK</string>
+    <string name="createAccEn">Create An Account</string>
+    <string name="clearSavedStateEn">Clear Saved Cart Data</string>
+    <string name="sendMailPl">Wyślij Maila</string>
+    <string name="sendMailEn">Send Mail</string>
+    <string name="shortcut_log_in_short">Log In</string>
+    <string name="shortcut_log_in_long">Log In</string>
+    <string name="shortcut_check_orders_short">Check Orders</string>
+    <string name="shortcut_check_orders_long">Check Orders</string>
+    <string name="shortcut_register_short">Register</string>
+    <string name="shortcut_register_long">Register</string>
+
+
+</resources>

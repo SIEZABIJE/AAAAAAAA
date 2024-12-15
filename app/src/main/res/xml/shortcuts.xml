@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="log_in"
+        android:enabled="true"
+        android:icon="@drawable/about_icon"
+        android:shortcutShortLabel="@string/shortcut_log_in_short"
+        android:shortcutLongLabel="@string/shortcut_log_in_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.project"
+            android:targetClass="com.example.project.LoginActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="check_orders"
+        android:enabled="true"
+        android:icon="@drawable/list_order_icon"
+        android:shortcutShortLabel="@string/shortcut_check_orders_short"
+        android:shortcutLongLabel="@string/shortcut_check_orders_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.project"
+            android:targetClass="com.example.project.ListViewActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="register"
+        android:enabled="true"
+        android:icon="@drawable/register_opt_icon"
+        android:shortcutShortLabel="@string/shortcut_register_short"
+        android:shortcutLongLabel="@string/shortcut_register_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.project"
+            android:targetClass="com.example.project.LoginActivity">
+            <extra
+                android:name="loginState"
+                android:value="false" />
+        </intent>
+    </shortcut>
+</shortcuts>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/purple200">
+
+    <ImageView
+        android:id="@+id/arrowBackMenu"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/baseline_arrow_back_24"
+        android:contentDescription="@string/arrow_back"
+        app:tint="@color/purple300" />
+
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:id="@+id/headerImage"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:src="@drawable/shop_icon" />
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/headerImage">
+    <TextView
+        android:id="@+id/loginTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/loggedAsPl"
+        android:textColor="@color/purple400"
+        android:textSize="12sp"/>
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/purple300"
+        android:text="@string/logoutButtonPl"
+        android:textSize="10sp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/header_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menuHeaderPl"
+        android:textColor="@color/purple400"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/headerImage"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/header_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menuSubtextPl"
+        android:textAlignment="center"
+        android:textColor="@color/purple400"
+        android:layout_below="@id/header_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="8dp"/>
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink100">#F8BBD0</color>
+    <color name="pink200">#F48FB1</color>
+    <color name="pink300">#F06292</color>
+    <color name="pink400">#EC407A</color>
+    <color name="purple100">#E1BEE7</color>
+    <color name="purple200">#CE93D8</color>
+    <color name="purple300">#BA68C8</color>
+    <color name="purple400">#AB47BC</color>
+    <color name="dividerColor">#DDDDDD</color>
+    <color name="listItemBackground">#FFFFFF</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="priceText">#2196F3</color>
+</resources>

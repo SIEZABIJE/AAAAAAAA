@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pcs">
+        <item>Silver Monkey X Battlestation ARGB R5-5600/16GB/1TB/RTX4060Ti/W11x</item>
+        <item>Dell Vostro 3710 SFF i5-12400/16GB/512/Win11P</item>
+        <item>Lenovo IdeaCentre 3 i5-14400/16GB/512</item>
+        <item>HP Victus 15L Ryzen 5-5600G/32GB/512+1TB/Win11 RX6600XT Black</item>
+        <item>Dell Optiplex MT Plus i5-14500/16GB/512/Win11P</item>
+
+    </array>
+    <array name="pcPrice">
+        <item>f4500.0</item>
+        <item>f2699.0</item>
+        <item>f1999.0</item>
+        <item>f3149.0</item>
+        <item>f3889.0</item>
+    </array>
+<!--    <array name="pcPrice">-->
+<!--        <item>4500.0</item>-->
+<!--        <item>2699.0</item>-->
+<!--        <item>1999.0</item>-->
+<!--        <item>3149.0</item>-->
+<!--        <item>3889.0</item>-->
+<!--    </array>-->
+
+    <array name="pcDescPl">
+        <item>Obudowa komputera Silver Monkey X Battlestation doskonale dopasuje się do Twojego stanowiska gracza.
+            Minimalistyczny design został wzbogacony o unikalny przedni panel typu mesh.
+            Zapewnia on dodatkowy przepływ powietrza, a tym samym ma wpływ na optymalną temperaturę wewnątrz komputera.
+            Za panelem znajduje się filtr przeciwkurzowy, który zatrzyma wszelkie drobinki brudu.
+            Co więcej, boczny panel ze szkła hartowanego pozwoli Ci podziwiać harmonijną pracę całego zestawu.
+            Komputer stworzony stricte dla graczy. Dedykowany szczególnie do grania w rozdzielczosci FullHD/2K.
+            Maksymalnie wykorzystane środki które ponosimy vs FPS.
+            Bardzo dobra propozycja dla zdecydowanej większości graczy, szczególnie ulubieńców gier typu MMORPG/FPS.
+        </item>
+        <item>
+            Niewielkie rozmiary i stylowa obudowa desktopa Dell Vostro 3710 SFF pasują do każdego biura.
+            Wystarczająca do codziennej pracy wydajność, pozwoli Ci na obsługę nawet najbardziej skomplikowanych projektów, a tym samym na sprawne realizowanie założonych celów.
+            W efekcie poprawisz swoją efektywność, a dzięki energooszczędnym podzespołom wprowadzisz do firmy trochę oszczędności.
+        </item>
+        <item>
+            Komputer stacjonarny Lenovo IdeaCentre 3 umożliwia profesjonalną pracę, granie oraz rozrywkę.
+            Wyposażony w najnowszą generację procesorów Intel® Core™ 14. gen., zapewnia wyjątkową wydajność.
+            Co więcej, ten komputer dysponuje błyskawiczną pamięcią operacyjną i może bezproblemowo sprostać wszystkim wymaganiom Twojej rodziny, od zadań szkolnych, przez edycję zdjęć, aż po strumieniowanie seriali.
+            IdeaCentre 3 to doskonałe rozwiązanie, które z pewnością spełni Twoje oczekiwania.
+        </item>
+        <item>
+            HP Victus 15L to urządzenie, które wyróżnia się smukłą i nowoczesną konstrukcją, doskonale komponującą się z każdym biurkiem.
+            Zgrabna obudowa sprawia, że komputer zajmuje niewiele miejsca, co pozwala na swobodniejsze zagospodarowanie przestrzeni.
+            Minimalistyczny design podkreśla elegancję urządzenia, nadając mu stylowego charakteru, który pasuje zarówno do domowego gabinetu, jak i biura.
+            HP Victus 15L zapewnia jednocześnie estetykę i funkcjonalność, stając się idealnym wyborem dla osób ceniących nowoczesny wygląd i wygodę.
+        </item>
+        <item>
+            Komputer Dell Optiplex MT Plus to połączenie ekologicznego podejścia z zaawansowanymi technologiami.
+            Zawiera do 56,7% tworzyw sztucznych z recyklingu i posiada certyfikaty potwierdzające zgodność z najlepszymi praktykami dekarbonizacji.
+            Wyposażony w najnowsze mechanizmy zabezpieczeń, ułatwia zarządzanie urządzeniami i oferuje spersonalizowan�� wydajność dzięki Dell Optimizer.
+            To idealne rozwiązanie dla tych, którzy cenią sobie zarówno wydajność, jak i troskę o środowisko.
+        </item>
+    </array>
+    <array name="pcDescEn">
+        <item>The Silver Monkey X Battlestation computer case perfectly fits your gaming station.
+            The minimalist design has been enriched with a unique mesh front panel.
+            It provides additional airflow, which in turn affects the optimal temperature inside the computer.
+            Behind the panel, there is a dust filter that will catch all dirt particles.
+            Moreover, the side panel made of tempered glass allows you to admire the harmonious operation of the entire set.
+            The computer is designed strictly for gamers. It is particularly dedicated to playing games in FullHD/2K resolution.
+            The maximum resources we invest vs FPS.
+            A very good proposal for the vast majority of gamers, especially fans of MMORPG/FPS games.
+        </item>
+        <item>
+            The small size and stylish case of the Dell Vostro 3710 SFF desktop fit into any office.
+            The sufficient performance for daily work will allow you to handle even the most complex projects, and thus achieve your goals efficiently.
+            As a result, you will improve your efficiency, and thanks to energy-saving components, you will introduce some savings to the company.
+        </item>
+        <item>
+            The Lenovo IdeaCentre 3 desktop computer enables professional work, gaming, and entertainment.
+            Equipped with the latest generation of Intel Core 14th gen processors, it provides exceptional performance.
+            Moreover, this computer has lightning-fast operating memory and can easily meet all the requirements of your family, from school tasks, through photo editing, to streaming series.
+            The IdeaCentre 3 is an excellent solution that will surely meet your expectations.
+        </item>
+        <item>
+            The HP Victus 15L is a device that stands out with its slim and modern construction, perfectly complementing any office.
+            The compact case takes up little space, allowing for more flexible use of space.
+            The minimalist design emphasizes the elegance of the device, giving it a stylish character that fits both a home office and a corporate office.
+            The HP Victus 15L offers both aesthetics and functionality, making it an ideal choice for those who value modern design and comfort.
+        </item>
+        <item>
+            The Dell Optiplex MT Plus computer combines an eco-friendly approach with advanced technologies.
+            It contains up to 56.7% recycled materials and has certifications confirming compliance with the best de-carbonization practices.
+            Equipped with the latest security mechanisms, it facilitates device management and offers personalized performance thanks to Dell Optimizer.
+            This is the ideal solution for those who value both performance and environmental care.
+        </item>
+    </array>
+
+    <!--MICE-->
+    <array name="mouseName">
+        <item>SteelSeries Rival 650</item>
+        <item>Silver Monkey X Howler</item>
+        <item>Logitech M185 szara</item>
+        <item>Razer Basilisk V3 X HyperSpeed</item>
+        <item>Logitech MX Vertical Ergonomic</item>
+    </array>
+    <array name="mousePrice">
+        <item>f239.99</item>
+        <item>f149.99</item>
+        <item>f55.55</item>
+        <item>f249.00</item>
+        <item>f365.00</item>
+    </array>
+    <array name="mouseDescPl">
+        <item>Wejdź na nowy poziom precyzji z bezprzewodową myszką SteelSeriers Rival 650.
+            To mysz, która posiada wszystko, aby osiągnąć sukces podczas gry.
+            Zaskocz przeciwnika prawdziwym śledzeniem 1 do 1 dzięki sensorowi optycznemu TrueMove3.
+            Graj bez zakłóceń z bezprzewodową technologią Quantum Wireless&amp;trade;.
+            SteelSeriers Rival 650 wystarczy 15 minut ładowania baterii, aby zapewni�� Ci 10 godzin rozgrywki.
+            7 programowalnych przycisków, 8-strefowe podświetlenie RGB i regulacja wagi pozwolą Ci na pełną personalizację.
+            SteelSeriers Rival 650 to nowa definicja gamingu.
+        </item>
+        <item>
+            Jeżeli wymagasz niezawodności i wygodnego użytkowania to Silver Monkey X Howler została zaprojektowana właśnie dla Ciebie.
+            Myszka ma precyzyjny sensor PMW 3325 i możesz z niej korzystać bezprzewodowo.
+            Pełna swoboda w połączeniu z dokładnością zapewnią Ci kontrolę nad rozgrywką.
+            Silver Monkey X Howler bez problemu dostosujesz do swoich potrzeb.
+            Zaprogramujesz przyciski, ustawisz makra, a także zmienisz kolor podświetlenia.
+            Co więcej, wygodny przewód w miękkim oplocie oraz ultralekka i ergonomiczna konstrukcja zapewnią Ci komfort podczas długich i zaciętych rozgrywek.
+        </item>
+        <item>
+            Logitech M185 to mysz, która oferuje niezawodną łączność bezprzewodową 2.4 GHz.
+            Brak zakłóceń czy opóźnień.
+            Malutki odbiornik bezprzewodowy zapewnia połączenie, na które można liczyć.
+            Współpracuje zarówno z komputerami Mac, Chrome OS™ jak i z komputerami z systemem Windows®.
+            Jest tak mały, że wystarczy podłączyć go do portu USB i zapomnieć o nim.
+            Nie rzuca się w oczy.
+            Koniec zmartwień z powodu zgubionych odbiorników.
+        </item>
+        <item>
+            Razer Basilisk V3 X HyperSpeed – bezprzewodowa myszka gamingowa, która pozwoli Ci na nielimitowaną rozgrywkę i pełną personalizację.
+            Wyposażona w 9 programowalnych przycisków, dwuzakresowe połączenie bezprzewodowe i konfigurowalne podświetlenie Razer Chroma RGB, zapewni Ci przewagę w najbardziej zaciętych pojedynkach.
+            Ponadto ergonomiczny kształt doskonale dopasowuje się do różnych rodzajów chwytów.
+            Dzięki temu możesz grać komfortowo przez wiele godzin, nie męcząc się i nie tracąc precyzji.
+        </item>
+        <item>
+            Mysz MX Vertical to zaawansowana mysz ergonomiczna łącząca w sobie naukowo opracowaną konstrukcję z doskonałą wydajnością serii Logitech MX.
+            Naturalna pozycja uścisku dłoni zmniejsza ucisk nadgarstka i obciążenie przedramienia.
+        </item>
+    </array>
+    <array name="mouseDescEn">
+        <item>
+            Experience a new level of precision with the SteelSeries Rival 650 wireless mouse.
+            This mouse is designed for gaming success, offering real 1:1 tracking with the TrueMove3 optical sensor.
+            Enjoy interference-free gaming with Quantum Wireless technology.
+            The SteelSeries Rival 650 provides 10 hours of gameplay with just 15 minutes of battery charging.
+            Customize your gaming experience with 7 programmable buttons, 8-zone RGB backlighting, and weight adjustment.
+            The SteelSeries Rival 650 redefines gaming.
+        </item>
+        <item>
+            The Silver Monkey X Howler is tailored to meet the demands of those seeking a reliable and comfortable gaming experience.
+            Equipped with a precise PMW 3325 sensor, this wireless mouse offers the perfect blend of freedom and accuracy, ensuring you have complete control over your gameplay.
+            The Silver Monkey X Howler is highly customizable, allowing you to program buttons, set macros, and adjust the backlight color to your preferences.
+            Additionally, its soft-braided cable and ultra-light, ergonomic design ensure maximum comfort during extended gaming sessions.
+        </item>
+        <item>
+            Logitech M185 is a wireless mouse that ensures a reliable connection through its 2.4 GHz technology.
+            It guarantees uninterrupted performance without any interference or lag.
+            The compact wireless receiver ensures a stable connection.
+            This mouse is compatible with Mac, Chrome OS, and Windows devices.
+            The receiver is small enough to be plugged into a USB port and left unnoticed.
+            Its discreet design eliminates concerns about misplacing the receiver.
+        </item>
+        <item>
+            Razer Basilisk V3 X HyperSpeed – a wireless gaming mouse that will allow you unlimited gameplay and full customization.
+            Equipped with 9 programmable buttons, dual-mode wireless connection and configurable Razer Chroma RGB backlighting, it will give you an advantage in the most intense duels.
+            In addition, the ergonomic shape perfectly adapts to different types of grips.
+            This way, you can play comfortably for many hours, without getting tired and without losing precision.
+        </item>
+        <item>
+            The MX Vertical mouse is an advanced ergonomic mouse that combines the scientifically designed construction with the excellent performance of the Logitech MX series.
+            The natural handshake position reduces wrist pressure and forearm load.
+        </item>
+    </array>
+
+    <!--KEYBOARDS-->
+    <array name="keyboardName">
+        <item>Dark Project ALU87A Onionite Wired G3MS Amber</item>
+        <item>Logitech K120 Keyboard czarna USB</item>
+        <item>Silver Monkey X Mandrill</item>
+        <item>Dark Project ALU87B Delta Wired G3MS Moonstone</item>
+        <item>Dark Project ALU87B Gamma Wired G3MS Magnetite</item>
+    </array>
+    <array name="keyboardPrice">
+        <item>f249.00</item>
+        <item>f59.00</item>
+        <item>f99.99</item>
+        <item>f399.00</item>
+        <item>f499.00</item>
+    </array>
+    <array name="keyboardDescPl">
+        <item>Dark Project ALU87 ONIONITE to przewodowa klawiatura mechaniczna z autorskimi przełącznikami G3Ms Amber. Model ten został stworzony we współpracy z marką ZG Fusion, założoną przez dwóch cenionych technologicznych YouTuberów – Ziemniaka i Grzegorza Rycko. To ich doświadczenie i pasja połączone z wizją Dark Project doprowadziły do powstania klawiatury, która oferuje ponad 1200 gramów unikalnie skomponowanych cech: Gasket Mount, aluminiowa i solidna obudowa oraz przepiękny design. Dark Project ALU87 ONIONITE to Twoja przepustka do świata urządzeń premium przy zachowaniu wyjątkowo przystępnej ceny.</item>
+        <item>Skonstruowana w klasycznym stylu, prosta i wygodna. Popraw ergonomię swojej pracy, wybierając klawiaturę Logitech K120. Przemyślana konstrukcja pozwala na wygodną pracę, nie męczy nadgarstków i dłoni. Cały dzień pisania w biurze czy wieczorne rozmowy ze znajomymi na czacie - teraz to wszystko wykonasz lekko i wygodnie.</item>
+        <item>Graj i korzystaj z wielu funkcji, jakie oferuje klawiatura Silver Monkey X Mandrill. Wykonana z tworzywa ABS zapewni Ci trwałość i odporność na uszkodzenia. Bawełniana otoczka kabla sprawi, że się nie zapląta i nie przeszkodzi Ci w swobodnym korzystaniu z klawiatury. Mandrill możesz ustawić w wygodnej i stabilnej pozycji dzięki gumowanym nóżkom. Ma też podpórkę pod nadgarstki, możliwość blokady klawisza „Windows” oraz pokrętło do sterowania multimediami. Switche rubber dome sprawią, że każde Twoje naciśnięcie będzie wygodne i precyzyjne.</item>
+        <item>Dark Project ALU87 DELTA to klawiatura mechaniczna z autorskimi przełącznikami G3Ms Moonstone, stworzona we współpracy z marką ZG Fusion, założoną przez dwóch cenionych technologicznych YouTuberów – Ziemniaka i Grzegorza Rycko. To ich doświadczenie i pasja połączone z wizją Dark Project doprowadziły do powstania klawiatury, która oferuje ponad 1500 gramów doskonałej wydajności, elegancji i wytrzymałości.</item>
+        <item>Dark Project ALU87 GAMMA to klawiatura magnetyczna z autorskimi przełącznikami G3Ms Magnetite, stworzona we współpracy z marką ZG Fusion, założoną przez dwóch cenionych technologicznych YouTuberów – Ziemniaka i Grzegorza Rycko. To ich doświadczenie i pasja połączone z wizją Dark Project doprowadziły do powstania klawiatury, która oferuje ponad 1900 gramów doskonałej wydajności, elegancji i wytrzymałości.</item>
+    </array>
+    <array name="keyboardDescEn">
+        <item>Dark Project ALU87 ONIONITE is a wired mechanical keyboard with custom G3Ms Amber switches. This model was created in collaboration with the ZG Fusion brand, founded by two renowned technological YouTubers – Ziemniak and Grzegorz Rycko. Their experience and passion combined with the vision of Dark Project led to the creation of a keyboard that offers over 1200 grams of uniquely composed features: Gasket Mount, aluminum and solid housing, and a beautiful design. Dark Project ALU87 ONIONITE is your pass to the world of premium devices while maintaining an exceptionally affordable price.</item>
+        <item>Constructed in a classic style, simple and comfortable. Improve the ergonomics of your work by choosing the Logitech K120 keyboard. The thoughtful design allows for comfortable work, does not tire the wrists and hands. A whole day of writing in the office or evening chats with friends on chat - now you can do it all easily and comfortably.</item>
+        <item>Play and use the many functions offered by the Silver Monkey X Mandrill keyboard. Made of ABS plastic, it will provide you with durability and resistance to damage. The cotton sheath of the cable will prevent it from tangling and will not interfere with your free use of the keyboard. You can set the Mandrill in a comfortable and stable position thanks to the rubberized feet. It also has a wrist rest, the ability to lock the "Windows" key, and a knob for multimedia control. The rubber dome switches will make every press comfortable and precise.</item>
+        <item>Dark Project ALU87 DELTA is a mechanical keyboard with custom G3Ms Moonstone switches, created in collaboration with the ZG Fusion brand, founded by two renowned technological YouTubers – Ziemniak and Grzegorz Rycko. Their experience and passion combined with the vision of Dark Project led to the creation of a keyboard that offers over 1500 grams of excellent performance, elegance and durability.</item>
+        <item>Dark Project ALU87 GAMMA is a magnetic keyboard with custom G3Ms Magnetite switches, created in collaboration with the ZG Fusion brand, founded by two renowned technological YouTubers – Ziemniak and Grzegorz Rycko. Their experience and passion combined with the vision of Dark Project led to the creation of a keyboard that offers over 1900 grams of excellent performance, elegance and durability.</item>
+    </array>
+
+    <!--WEBCAMS-->
+    <array name="webcamName">
+        <item>Logitech C920 Pro Full HD</item>
+        <item>Creative Live! Cam Sync V3</item>
+        <item>Creative Live! Cam Sync 4K</item>
+        <item>CameraX</item>
+        <item>A4Tech HD PK-910P USB Black</item>
+    </array>
+    <array name="webcamPrice">
+        <item>f329.00</item>
+        <item>f199.00</item>
+        <item>f259.00</item>
+        <item>f100.00</item>
+        <item>f79.99</item>
+    </array>
+    <array name="webcamDescPl">
+        <item>Połącz się z dowolną osobą w rozdzielczości Full HD 1080p w programie Skype lub w płynnej rozdzielczości HD 720p w programie FaceTime na komputerze Mac. Możesz też prowadzić połączenia wideo o wysokiej jakości w programie Google Hangouts™ i w innych klientach do obsługi połączeń wideo. Możesz nawet czatować ze znajomymi w serwisie Facebook® dzięki połączeniom wideo obsługiwanym przez program Skype lub Facebook Messenger.</item>
+        <item>Creative Live! Cam Sync V3 to kamera internetowa 2K QHD typu plug-and-play, która zapewnia niezwykle szczegółowe i płynne obrazy. Dzięki czterokrotnemu zoomowi cyfrowemu będziesz mógł wybierać spośród wielu zakresów zoomu, które są najlepiej przycięte do Twoich potrzeb i środowiska.</item>
+        <item>Ciesz się wyjątkowo wyraźnym, ostrym i szczegółowym obrazem 4K UHD dzięki Creative Live! Cam Sync 4K, kamera internetowa typu plug-and-play, zaprojektowana w celu zmaksymalizowania możliwości prowadzenia wideokonferencji online lub przesyłania strumieniowego. </item>
+        <item>CameraX to biblioteka Jetpack, która ma ułatwić tworzenie aplikacji związanych z aparatem. W przypadku nowych aplikacji zalecamy korzystanie z Aparatu X. Zapewnia spójny, łatwy w obsłudze interfejs API, który działa na większości urządzeń z Androidem.</item>
+        <item>Ważne spotkanie biznesowe online? A może długo wyczekiwana rozmowa wideo z rodziną, czy przyjaciółmi? Kamera internetowa A4Tech HD PK-910P USB zapewnia doskonałą ostrość i jakość obrazu oraz nagrywa prawdziwe wideo w jakości HD z prędkością do 30 kl/s, dzięki czemu wyraźnie zobaczysz się z bliskimi i partnerami biznesu.</item>
+    </array>
+    <array name="webcamDescEn">
+        <item>Experience seamless video conferencing with Full HD 1080p on Skype, smooth HD 720p on FaceTime for Mac, and high-quality video calls on Google Hangouts™ and other platforms. Additionally, engage in video chats with friends on Facebook® using Skype or Facebook Messenger.</item>
+        <item>The Creative Live! Cam Sync V3 is a 2K QHD plug-and-play internet camera offering remarkably detailed and smooth visuals. Its four-time digital zoom allows for selecting the most suitable zoom range for your environment.</item>
+        <item>Take advantage of the exceptionally clear, sharp, and detailed 4K UHD visuals provided by the Creative Live! Cam Sync 4K, a plug-and-play internet camera optimized for online video conferencing and streaming.</item>
+        <item>CameraX is a Jetpack library designed to simplify camera app development. For new projects, we recommend starting with CameraX, which offers a consistent, user-friendly API compatible with most Android devices.</item>
+        <item>For important online business meetings or long-awaited video calls with family or friends, the A4Tech HD PK-910P USB internet camera provides high-quality image and records HD video at a smooth 30 fps, ensuring clear communication with loved ones and business partners.</item>
+    </array>
+    
+
+</resources>
