@@ -8,8 +8,11 @@ import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 //import android.content.pm.ShortcutInfo;
 //import android.content.pm.ShortcutManager;
+import android.content.pm.ShortcutInfo;
+import android.content.pm.ShortcutManager;
 import android.content.res.Resources;
 import android.database.Cursor;
+import android.graphics.drawable.Icon;
 import android.net.Uri;
 //import android.os.Build;
 import android.os.Bundle;
@@ -154,7 +157,7 @@ public class MainActivity extends AppCompatActivity {
 
         getState();
         settingOnChange();
-
+        createShortcuts();
 
 
     }
@@ -1438,36 +1441,34 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-//    @RequiresApi(api = Build.VERSION_CODES.N_MR1)
-//    private void createShortcuts() {
-//        ShortcutManager shortcutManager = getSystemService(ShortcutManager.class);
-//        if (shortcutManager != null) {
-//            List<ShortcutInfo> existingShortcuts = shortcutManager.getDynamicShortcuts();
-//            if (existingShortcuts.size() < 3) {
-//
-//            if (existingShortcuts.size() < 3) { // Adjust based on your needs
-//                ShortcutInfo logInShortcut = new ShortcutInfo.Builder(this, "log_in")
-//                        .setShortLabel("Log In")
-//                        .setLongLabel("Open Login Activity")
-//                        .setIntent(new Intent(this, LoginActivity.class))
-//                        .build();
-//
-//                ShortcutInfo checkOrdersShortcut = new ShortcutInfo.Builder(this, "check_orders")
-//                        .setShortLabel("Check Orders")
-//                        .setLongLabel("Open ListView Activity")
-//                        .setIntent(new Intent(this, ListViewActivity.class))
-//                        .build();
-//
-//                ShortcutInfo registerShortcut = new ShortcutInfo.Builder(this, "register")
-//                        .setShortLabel("Register")
-//                        .setLongLabel("Open Registration")
-//                        .setIntent(new Intent(this, LoginActivity.class).putExtra("loginState", false))
-//                        .build();
-//
-//                shortcutManager.setDynamicShortcuts(Arrays.asList(logInShortcut, checkOrdersShortcut, registerShortcut));
-//                }
-//            }
-//        }
-//    }
+    private void createShortcuts() {
+        ShortcutManager shortcutManager = getSystemService(ShortcutManager.class);
+        if (shortcutManager != null) {
+                ShortcutInfo logInShortcut = new ShortcutInfo.Builder(this, "log_in")
+                        .setShortLabel("Log In")
+                        .setLongLabel("Open Login Activity")
+                        .setIntent(new Intent(MainActivity.this, LoginActivity.class).setAction(Intent.ACTION_SEND))
+                        .setIcon(Icon.createWithResource(this, R.drawable.about_icon))
+                        .build();
+
+                ShortcutInfo checkOrdersShortcut = new ShortcutInfo.Builder(this, "check_orders")
+                        .setShortLabel("Check Orders")
+                        .setLongLabel("Open ListView Activity")
+                        .setIntent(new Intent(MainActivity.this, ListViewActivity.class).setAction(Intent.ACTION_SEND))
+                        .setIcon(Icon.createWithResource(this,R.drawable.list_order_icon))
+                        .build();
+
+                ShortcutInfo registerShortcut = new ShortcutInfo.Builder(this, "register")
+                        .setShortLabel("Register")
+                        .setLongLabel("Open Registration")
+                        .setIntent(new Intent(MainActivity.this, LoginActivity.class).setAction(Intent.ACTION_SEND).putExtra("loginState", false))
+                        .setIcon(Icon.createWithResource(this,R.drawable.register_opt_icon))
+                        .build();
+
+                shortcutManager.setDynamicShortcuts(Arrays.asList(logInShortcut, checkOrdersShortcut, registerShortcut));
+
+
+        }
+    }
 }
 
